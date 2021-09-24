@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nessd
+- 👀 I’m interested in developing software using design patterns, architectural styles using JS frameworks such as React and Angular.
+- 🌱 I’m currently learning React Native.
+- 💞️ I’m not looking to collaborate on software related with JS and React because I feel I lack on knowleadge on those tech.
